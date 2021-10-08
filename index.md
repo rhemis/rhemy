@@ -35,7 +35,7 @@ var dataLayer = dataLayer || [];
  <img src="https://i0.hdslb.com/bfs/album/94aaed97234925e9aace205259f303d4c8423e81.jpg" alt="我的照片" width="250">
   <p>一张照骗。153cm的身高可以体现地域特色（雾</p>
 
- <img src="https://i0.hdslb.com/bfs/album/aa3383c870faf8054d67c43b9437e52a1cbfdf04.png" alt="我的守护神" width="250">
+ <img src="https://i.imgur.com/pqK5G8L.png" alt="我的守护神" width="250">
   <p>罗琳书粉，鹰院女孩。守护神也是鹰！</p>
  <br>
  <p>六岁开始弹钢琴，水平稀松平常但是喜欢自己用钢琴玩即兴创作。</p>
@@ -43,8 +43,8 @@ var dataLayer = dataLayer || [];
  <p>现在更新主要在<a href="https://music.163.com/#/djradio?id=794846770" target="_blank">我的网易云电台</a></p>
 <br>
  <p>喜欢书法，是想要坚持到老的那种。</p>
- <img src="https://i0.hdslb.com/bfs/album/584b55bf13bfce0162c9309213e0b524d24cf4c1.jpg" alt="临圣教序" width="250" height="480">
- <img src="https://i0.hdslb.com/bfs/album/763f00c7154d69fae68580f6afc0182a35c4e8a5.jpg" alt="临圣教序" width="250" height="480">
+ <img src="https://i.imgur.com/ijdmKOP.jpg" alt="临圣教序" width="250" height="480">
+ <img src="https://i.imgur.com/qIjUJPs.jpg" alt="临圣教序" width="250" height="480">
  
  <h2>My Experience</h2>
  <p>2021/9/1 成为PKU公卫人</p>
