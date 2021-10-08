@@ -38,5 +38,5 @@ var dataLayer = dataLayer || [];
 <a href="https://music.163.com/#/djradio?id=794846770">多数上传在网易云电台</a>
 
  <p>喜欢书法，是想要坚持到老的那种。</p>
- <img src="https://i.imgur.com/BzpqpT1.jpg" alt="临圣教序">
- <img src="https://i.imgur.com/qIjUJPs.jpg" alt="临圣教序">
+ <img src="https://i.imgur.com/BzpqpT1.jpg" alt="临圣教序" width="250" height="490">
+ <img src="https://i.imgur.com/qIjUJPs.jpg" alt="临圣教序" width="250" height="490">
