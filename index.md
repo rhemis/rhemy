@@ -28,8 +28,15 @@ var dataLayer = dataLayer || [];
  <img src="https://img.phb123.com/uploads/allimg/170804/19-1FP41KI5527.jpg" alt="汕头海边">
  
  <h2>About Rhemy</h2>
- <p>153cm的身高可以体现地域特色（雾</p>
+ <p>一张照骗。153cm的身高可以体现地域特色（雾</p>
  <img src="https://i.imgur.com/B37x8CG.jpeg" alt="我的照片" width="250" height="260">
  <p>罗琳书粉，鹰院女孩。守护神也是鹰！</p>
  <img src="https://i.imgur.com/pqK5G8L.png" alt="我的守护神" width="250" height="250">
  
+ <p>六岁开始弹钢琴，水平稀松平常但是喜欢自己用钢琴玩即兴创作。</p>
+<a href="https://space.bilibili.com/228364449/audio">B站个人主页音频</a>
+<a href="https://music.163.com/#/djradio?id=794846770">多数上传在网易云电台</a>
+
+ <p>喜欢书法，是想要坚持到老的那种。</p>
+ <img src="https://i.imgur.com/BzpqpT1.jpg" alt="临圣教序">
+ <img src="https://i.imgur.com/qIjUJPs.jpg" alt="临圣教序">
