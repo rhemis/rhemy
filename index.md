@@ -21,11 +21,11 @@ var dataLayer = dataLayer || [];
  <h2>My Hometown</h2>
  <p>Swatow,Guangdong</p>
   <p>我的故乡是潮汕平原。潮汕大地是靠美食活在纪录片里的，When you search "Chaoshan" on the Internet...</p>
- <img src="https://i.imgur.com/aOgu1A4.png" alt="潮汕美食">
+ <img src="https://i.imgur.com/aOgu1A4.png" alt="潮汕美食" width="500">
  <p>潮州是历史文化名城</p>
- <img src="https://idle-moment.com/wp-content/uploads/2018/10/GR015216-1.jpg" alt="潮州城楼">
+ <img src="https://idle-moment.com/wp-content/uploads/2018/10/GR015216-1.jpg" alt="潮州城楼" width="500">
  <p>我来自它隔壁的海湾城市汕头。</p>
- <img src="https://img.phb123.com/uploads/allimg/170804/19-1FP41KI5527.jpg" alt="汕头海边">
+ <img src="https://img.phb123.com/uploads/allimg/170804/19-1FP41KI5527.jpg" alt="汕头海边" width="500">
  
  <h2>About Rhemy</h2>
  <p>一张照骗。153cm的身高可以体现地域特色（雾</p>
