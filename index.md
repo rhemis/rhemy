@@ -20,7 +20,8 @@ var dataLayer = dataLayer || [];
  
  <h2>My Hometown</h2>
  <p>Swatow,Guangdong</p>
-  <p>我的故乡是潮汕平原，潮汕大地是靠美食活在纪录片里的。When you search "Chaoshan" on the Internet...</p>
+  <p>我的故乡是潮汕平原，潮汕大地是靠美食活在纪录片里的。</p>
+ <p>When you search "Chaoshan" on the Internet...</p>
  <img src="https://i.imgur.com/aOgu1A4.png" alt="潮汕美食" width="500">
  <p>潮州是历史文化名城</p>
  <img src="https://idle-moment.com/wp-content/uploads/2018/10/GR015216-1.jpg" alt="潮州城楼" width="500">
@@ -47,4 +48,4 @@ var dataLayer = dataLayer || [];
  <p>2021/9/1 成为PKU公卫人</p>
  <p>2015/9/1 开始在潮阳实验学校的6年中学生涯</p>
  <p>2009/9/1 走进汕头市龙湖区丹霞小学</p>
- <p>2003/3/26 诞生在在非典时代</p>
+ <p>2003/3/26 诞生在非典时代</p>
