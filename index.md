@@ -42,3 +42,9 @@ var dataLayer = dataLayer || [];
  <p>喜欢书法，是想要坚持到老的那种。</p>
  <img src="https://i.imgur.com/ijdmKOP.jpg" alt="临圣教序" width="250" height="480">
  <img src="https://i.imgur.com/qIjUJPs.jpg" alt="临圣教序" width="250" height="480">
+
+ <h2>My Experience</h2>
+ <p>2021/9/1 成为PKU公卫人</p>
+ <p>2015/9/1 开始在潮阳实验学校的6年中学生涯</p>
+ <p>2009/9/1 走进汕头市龙湖区丹霞小学</p>
+ <p>2003/3/26 诞生在在非典时代</p>
