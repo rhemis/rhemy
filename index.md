@@ -22,7 +22,7 @@ var dataLayer = dataLayer || [];
  <p>Swatow,Guangdong</p>
   <p>我的故乡是潮汕平原，潮汕大地是靠美食活在纪录片里的。</p>
  <p>When you search "Chaoshan" on the Internet...</p>
- <img src="https://i0.hdslb.com/bfs/album/7d76ca9d1afbde207a2e96b08aa412ed55309e0d.png" alt="潮汕美食" width="500">
+ <img src="https://i.imgur.com/aOgu1A4.png" alt="潮汕美食" width="500">
  <br>
  <p>潮州是历史文化名城。</p>
  <img src="https://idle-moment.com/wp-content/uploads/2018/10/GR015216-1.jpg" alt="潮州城楼" width="250">
@@ -32,7 +32,7 @@ var dataLayer = dataLayer || [];
  
  <h2>About Rhemy</h2>
 
- <img src="https://i0.hdslb.com/bfs/album/94aaed97234925e9aace205259f303d4c8423e81.jpg" alt="我的照片" width="250">
+ <img src="https://i.imgur.com/B37x8CG.jpeg" alt="我的照片" width="250">
   <p>一张照骗。153cm的身高可以体现地域特色（雾</p>
 
  <img src="https://i.imgur.com/pqK5G8L.png" alt="我的守护神" width="250">
