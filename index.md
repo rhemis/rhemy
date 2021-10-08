@@ -20,7 +20,7 @@ var dataLayer = dataLayer || [];
  
  <h2>My Hometown</h2>
  <p>Swatow,Guangdong</p>
-  <p>我的故乡是潮汕平原。潮汕大地是靠美食活在纪录片里的，When you search "Chaoshan" on the Internet...</p>
+  <p>我的故乡是潮汕平原，潮汕大地是靠美食活在纪录片里的。When you search "Chaoshan" on the Internet...</p>
  <img src="https://i.imgur.com/aOgu1A4.png" alt="潮汕美食" width="500">
  <p>潮州是历史文化名城</p>
  <img src="https://idle-moment.com/wp-content/uploads/2018/10/GR015216-1.jpg" alt="潮州城楼" width="500">
@@ -36,9 +36,9 @@ var dataLayer = dataLayer || [];
   <p>罗琳书粉，鹰院女孩。守护神也是鹰！</p>
  <br>
  <p>六岁开始弹钢琴，水平稀松平常但是喜欢自己用钢琴玩即兴创作。</p>
-<a href="https://space.bilibili.com/228364449/audio">有的上传在B站个人主页音频</a>
-<a href="https://music.163.com/#/djradio?id=794846770">更新在网易云电台</a>
+<a href="https://space.bilibili.com/228364449/audio" target="_blank">有的上传在B站个人主页音频</a>
+<a href="https://music.163.com/#/djradio?id=794846770" target="_blank">更新在网易云电台</a>
 <br>
  <p>喜欢书法，是想要坚持到老的那种。</p>
- <img src="https://i.imgur.com/BzpqpT1.jpg" alt="临圣教序" width="250" height="490">
- <img src="https://i.imgur.com/qIjUJPs.jpg" alt="临圣教序" width="250" height="490">
+ <img src="https://i.imgur.com/ijdmKOP.jpg" alt="临圣教序" width="250" height="480">
+ <img src="https://i.imgur.com/qIjUJPs.jpg" alt="临圣教序" width="250" height="480">
