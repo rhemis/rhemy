@@ -29,5 +29,7 @@ var dataLayer = dataLayer || [];
  
  <h2>About Rhemy</h2>
  <p>153cm的身高可以体现地域特色（雾</p>
- <img src="https://i.imgur.com/B37x8CG.jpeg" alt="我的照片" width="228" height="228">
+ <img src="https://i.imgur.com/B37x8CG.jpeg" alt="我的照片" width="250" height="260">
+ <p>罗琳书粉，鹰院女孩。守护神也是鹰！</p>
+ <img src="https://i.imgur.com/pqK5G8L.png" alt="我的守护神" width="250" height="250">
  
